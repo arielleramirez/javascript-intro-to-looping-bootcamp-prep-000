@@ -8,6 +8,6 @@ function forLoop(array){
      }
 
 }
-return array{
+return array;
 }
 
